@@ -16,7 +16,7 @@ turtle1 → turtle2 → turtle3 → turtle4 → turtle5
 - `turtle4`：跟随 `turtle3`
 - `turtle5`：跟随 `turtle4`
 
-实验报告明确给出了上述链式跟随关系，并说明跟随控制根据两只海龟之间的距离和角度偏差进行比例控制。fileciteturn0file0L25-L29
+项目明确给出了上述链式跟随关系，并说明跟随控制根据两只海龟之间的距离和角度偏差进行比例控制。fileciteturn0file0L25-L29
 
 ## 环境
 
